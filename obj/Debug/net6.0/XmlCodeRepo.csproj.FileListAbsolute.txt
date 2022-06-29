@@ -1,0 +1,15 @@
+C:\Projects\XmlCodeRepo\bin\Debug\net6.0\XmlCodeRepo.exe
+C:\Projects\XmlCodeRepo\bin\Debug\net6.0\XmlCodeRepo.deps.json
+C:\Projects\XmlCodeRepo\bin\Debug\net6.0\XmlCodeRepo.runtimeconfig.json
+C:\Projects\XmlCodeRepo\bin\Debug\net6.0\XmlCodeRepo.dll
+C:\Projects\XmlCodeRepo\bin\Debug\net6.0\XmlCodeRepo.pdb
+C:\Projects\XmlCodeRepo\obj\Debug\net6.0\XmlCodeRepo.csproj.AssemblyReference.cache
+C:\Projects\XmlCodeRepo\obj\Debug\net6.0\XmlCodeRepo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\XmlCodeRepo\obj\Debug\net6.0\XmlCodeRepo.AssemblyInfoInputs.cache
+C:\Projects\XmlCodeRepo\obj\Debug\net6.0\XmlCodeRepo.AssemblyInfo.cs
+C:\Projects\XmlCodeRepo\obj\Debug\net6.0\XmlCodeRepo.csproj.CoreCompileInputs.cache
+C:\Projects\XmlCodeRepo\obj\Debug\net6.0\XmlCodeRepo.dll
+C:\Projects\XmlCodeRepo\obj\Debug\net6.0\refint\XmlCodeRepo.dll
+C:\Projects\XmlCodeRepo\obj\Debug\net6.0\XmlCodeRepo.pdb
+C:\Projects\XmlCodeRepo\obj\Debug\net6.0\XmlCodeRepo.genruntimeconfig.cache
+C:\Projects\XmlCodeRepo\obj\Debug\net6.0\ref\XmlCodeRepo.dll
